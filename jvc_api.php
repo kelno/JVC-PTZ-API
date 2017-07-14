@@ -11,7 +11,7 @@ $api->get_streaming_settings();
 */
 //$api->session_renewal();
 //$api->set_streaming_server_settings_rtsp(0, "RTSP", "password");
-//$api->set_streaming_server_settings_rtmp(1, "RTMP", "rtmp://10.0.2.100/play"); //marche pas ? ca met nimp dans l'url on dirait avec les /
+//$api->set_streaming_server_settings_rtmp(1, "RTMP", "rtmp://10.0.2.100/play"); //Not sure this works
 
 //$api->get_cam_status();
 //$api->set_streaming_ctrl(false);
